@@ -4,3 +4,4 @@ cache/
 artifacts/
 .idea
 .aws-sam/
+samconfig.toml
