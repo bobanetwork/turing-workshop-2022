@@ -48,7 +48,7 @@ describe("Pull Bitcoin - USD quote", function () {
 
     before(async () => {
 
-        urlStr = 'https://6ak9trn6p1.execute-api.us-east-1.amazonaws.com/Prod/' // limitation is 64 bytes for an url
+        urlStr = 'https://21h8519ka2.execute-api.us-east-1.amazonaws.com/Prod/' // limitation is 64 bytes for an url
         console.log("    URL set to", urlStr)
 
         Factory__Helper = new ContractFactory(
